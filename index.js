@@ -1,4 +1,4 @@
-$()
+$(document).
 let dodger = document.getElementById('dodger');
 
 function moveDodgerRight() {
